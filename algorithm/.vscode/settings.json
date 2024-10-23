@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "typeindex": "cpp",
+    "typeinfo": "cpp",
+    "iosfwd": "cpp",
+    "ostream": "cpp",
+    "ratio": "cpp",
+    "array": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "random": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled",
+  "cph.general.onceMaintainerMessage": false
+}
